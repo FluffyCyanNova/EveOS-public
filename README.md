@@ -1,4 +1,4 @@
-EveOS v2
+EveOS
 ========
 
 A hacker simulator game built as a simulated desktop OS,
