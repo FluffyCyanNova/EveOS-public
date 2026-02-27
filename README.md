@@ -26,9 +26,18 @@ FEATURES
 DOWNLOADS
 ---------
 
-Pre-built binaries are available on the Releases page.
+- Pre-built binaries are available on the Releases page.
 
-  Windows    Portable .exe
+
+REQUIREMENTS
+---------
+
+- 1280x720p / 1920x1080p monitor
+- NVIDIA GT 710 / AMD equivalent
+- 4-core Intel / AMD processor
+- 500MB of free space
+- 8GB of memory / RAM
+- Windows 10 / 11 x64
 
 
 LICENSE
