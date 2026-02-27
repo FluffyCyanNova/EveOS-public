@@ -43,7 +43,7 @@ REQUIREMENTS
 LICENSE
 -------
 
-EveOS v2 is licensed under CC BY-SA 4.0.
+EveOS v2 is licensed under CC BY-NC-SA 4.0.
 See LICENSE.md for details.
 
 EveOS v2 — (c) 2026 Everest
