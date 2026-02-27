@@ -35,6 +35,6 @@ LICENSE
 -------
 
 EveOS v2 is licensed under CC BY-SA 4.0.
-See LICENSE.txt for details.
+See LICENSE.md for details.
 
 EveOS v2 — (c) 2026 Everest
