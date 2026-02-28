@@ -23,13 +23,7 @@ FEATURES
   - Logon screen with password protection
 
 
-DOWNLOADS
----------
-
-- Pre-built binaries are available on the Releases page.
-
-
-REQUIREMENTS
+SYSTEM REQUIREMENTS
 ---------
 
 - 1280x720p / 1920x1080p monitor
@@ -38,6 +32,12 @@ REQUIREMENTS
 - 500MB of free space
 - 8GB of memory / RAM
 - Windows 10 / 11 x64
+
+
+DOWNLOADS
+---------
+
+- Pre-built binaries are available on the Releases page.
 
 
 LICENSE
