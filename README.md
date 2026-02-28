@@ -7,14 +7,14 @@ running in your browser or as a native desktop app via Electron.
 Boot into EveOS, complete tasks sent through a mysterious messaging app,
 use the terminal to install tools, and uncover what's really going on.
 
-![EveOS Desktop](assets/screenshots/boot.png)
+![EveOS](assets/screenshots/boot.png)
 
 ---
 
 PREVIEW
 -------
 
-| Sign-in | Desktop | Terminal |
+| Sign-in Screen | Desktop Screen | Terminal App |
 |--------|----------|----------|
 | ![Sign-in](assets/screenshots/sign-in.png) | ![Desktop](assets/screenshots/desktop.png) | ![Terminal](assets/screenshots/terminal.png) |
 
