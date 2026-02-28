@@ -1,5 +1,5 @@
 EveOS v2
-Copyright (c) 2026 Everest Nova. All rights reserved.
+Copyright (c) 2026 Everest. All rights reserved.
 
 This work is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0
